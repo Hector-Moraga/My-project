@@ -1,0 +1,36 @@
+body{background: rgb(212, 198, 198);
+clear:both;}
+footer{ background-color: grey;
+    height: 50px;
+    padding-left: 50px;
+    clear:both;
+}
+
+#caja{background-color: salmon;
+    padding-bottom: 140px;
+padding-top: 40px;
+width:400px;
+padding-left: 40px;
+float: left;
+
+}
+    
+#caja1{background-color: deeppink;
+clear: both;
+}
+
+h1 {
+    clear: both;
+color: deeppink;}
+
+
+aside{float:right;
+width: 400px;
+height: 312px;
+}
+
+
+
+
+
+*{margin:0;padding:0}
